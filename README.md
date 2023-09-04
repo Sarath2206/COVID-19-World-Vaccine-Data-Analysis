@@ -12,7 +12,7 @@ Some of them are listed below:
  -  Covaxin
 
 
-The Libraries and the functions used for this project were learned from the course [Data Analysis with Python: Zero to Pandas](https://jovian.com/learn/data-analysis-with-python-zero-to-pandas).
+The Libraries and the functions used for this project were learned from the course [Data Analysis with Python: Zero to Pandas](https://jovian.com/certificate/MFQTINRQGE).
 
 
 ![alt text](https://i.ytimg.com/vi/6ixFjJmOx7g/maxresdefault.jpg "World Vaccine Progress")
